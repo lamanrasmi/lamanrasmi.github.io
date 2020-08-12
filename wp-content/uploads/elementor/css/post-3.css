@@ -1,0 +1,14 @@
+.elementor-3 .elementor-element.elementor-element-75bfaf0f {text-align: center;}
+.elementor-3 .elementor-element.elementor-element-75bfaf0f .elementor-heading-title {font-size: 3.2em;text-transform: uppercase;text-shadow: 2px 2px 0px #000;}
+.elementor-3 .elementor-element.elementor-element-60a31c75 > .elementor-widget-container {padding: 0px 100px 0px 100px;}
+.elementor-3 .elementor-element.elementor-element-797c1a6:not(.elementor-motion-effects-element-type-background), .elementor-3 .elementor-element.elementor-element-797c1a6 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-image: url("https://www.lamanrasmi.com/wp-content/uploads/2019/09/page-header.jpg");background-position: center center;background-repeat: no-repeat;background-size: cover;}
+.elementor-3 .elementor-element.elementor-element-797c1a6 > .elementor-background-overlay {background-color: #000;opacity: .4;transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-3 .elementor-element.elementor-element-797c1a6 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;color: #fff;padding: 50px 0px 50px 0px;}
+.elementor-3 .elementor-element.elementor-element-797c1a6 .elementor-heading-title {color: #fff;}
+.elementor-3 .elementor-element.elementor-element-797c1a6 > .elementor-container {text-align: center;}
+.elementor-3 .elementor-element.elementor-element-f9945eb:not(.elementor-motion-effects-element-type-background), .elementor-3 .elementor-element.elementor-element-f9945eb > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #f2f2f2;}
+.elementor-3 .elementor-element.elementor-element-f9945eb {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 30px 30px 30px 30px;}
+.elementor-3 .elementor-element.elementor-element-f9945eb > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+@media (min-width:1025px) {.elementor-3 .elementor-element.elementor-element-797c1a6:not(.elementor-motion-effects-element-type-background), .elementor-3 .elementor-element.elementor-element-797c1a6 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-attachment: scroll;}}
+@media (max-width:767px) {.elementor-3 .elementor-element.elementor-element-75bfaf0f .elementor-heading-title {font-size: 2em;}
+	.elementor-3 .elementor-element.elementor-element-60a31c75 > .elementor-widget-container {padding: 5px 5px 5px 5px;}}
