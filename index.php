@@ -184,7 +184,7 @@
                         </div>
                         <div class="mbr-crt-title">
                             <h4 class="card-title py-2 mbr-crt-title mbr-fonts-style display-7">
-                                Terbaik Untuk HTML</h4>
+                                Terbaik Untuk Static</h4>
                         </div>
                     </div>                
 
