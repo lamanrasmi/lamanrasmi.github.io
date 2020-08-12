@@ -59,7 +59,7 @@
         <div class="menu-logo">
             <div class="navbar-brand">
                 <span class="navbar-logo">
-                    <a href="https://www.lamanrasmi.com">
+                    <a href="https://www.jomnia.ga">
                          <img src="assets/images/2018-logo.jpg" alt="LamanRasmi Web Hosting" title="LamanRasmi" style="height: 3.8rem;">
                     </a>
                 </span>

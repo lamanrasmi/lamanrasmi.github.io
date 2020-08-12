@@ -59,7 +59,7 @@
         <div class="menu-logo">
             <div class="navbar-brand">
                 <span class="navbar-logo">
-                    <a href="https://www.lamanrasmi.com">
+                    <a href="https://www.jomnia.ga">
                          <img src="assets/images/2018-logo.jpg" alt="LamanRasmi Web Hosting" title="LamanRasmi" style="height: 3.8rem;">
                     </a>
                 </span>
@@ -149,7 +149,7 @@
     <div class="container">
         <div class="media-container-row">
             <div class="mbr-text col-12 col-md-8 mbr-fonts-style display-7">
-<iframe style="border:0;" width="100%" height="550px" src="https://www.lamanrasmi.com/signup.php">
+<iframe style="border:0;" width="100%" height="550px" src="https://www.jomnia.ga/signup.php">
 							</iframe>
             </div>
 
@@ -202,7 +202,7 @@ dan bersetuju dengan Terma Syarat yang telah ditetapkan. *Warez, Adult, Scam, P2
                     <a href="https://play.google.com/store/apps/details?id=com.askewallz.LamanRasmi" target="_blank">
                         <img src="assets/images/google-play.png" width="200px" height="50px" alt="LamanRasmi Android App" title="">
                     </a><br>
-                    <p class="mbr-text">&nbsp;<br>Web: &nbsp;<a href="https://www.lamanrasmi.com" class="text-secondary">www.lamanrasmi.com</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>Fb: <a href="https://web.facebook.com/lamanrasmi" target="_blank" class="text-secondary">fb.me/lamanrasmi</a></p>
+                    <p class="mbr-text">&nbsp;<br>Web: &nbsp;<a href="https://www.jomnia.ga" class="text-secondary">www.lamanrasmi.com</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>Fb: <a href="https://web.facebook.com/lamanrasmi" target="_blank" class="text-secondary">fb.me/lamanrasmi</a></p>
                 </div>
             </div>
             <div class="col-12 col-md-3 mbr-fonts-style display-7">
@@ -230,7 +230,7 @@ dan bersetuju dengan Terma Syarat yang telah ditetapkan. *Warez, Adult, Scam, P2
             <div class="media-container-row mbr-white">
                 <div class="col-sm-8 copyright">
                     <p class="mbr-text mbr-fonts-style display-7">
-                        Copyright ©2018 <a href="https://www.lamanrasmi.com" class="text-success">LamanRasmi</a> | Designed by <a href="https://www.ewallzsolutions.com/" target="_blank" title="SME Web Designs" class="text-success">SME Web</a> | Supercharged by <a href="http://ifastnet.lamanrasmi.com/" target="_blank" title="iFastnet Data Center" class="text-success">iFastnet</a>
+                        Copyright ©2018 <a href="https://www.jomnia.ga" class="text-success">LamanRasmi</a> | Designed by <a href="https://www.ewallzsolutions.com/" target="_blank" title="SME Web Designs" class="text-success">SME Web</a> | Supercharged by <a href="http://ifastnet.lamanrasmi.com/" target="_blank" title="iFastnet Data Center" class="text-success">iFastnet</a>
                     </p>
                 </div>
                 <div class="col-md-4">
